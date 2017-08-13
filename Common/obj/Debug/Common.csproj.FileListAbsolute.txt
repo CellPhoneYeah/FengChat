@@ -1,0 +1,5 @@
+G:\C#Project\FengChatClient\Common\bin\Debug\Common.dll
+G:\C#Project\FengChatClient\Common\bin\Debug\Common.pdb
+G:\C#Project\FengChatClient\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+G:\C#Project\FengChatClient\Common\obj\Debug\Common.dll
+G:\C#Project\FengChatClient\Common\obj\Debug\Common.pdb

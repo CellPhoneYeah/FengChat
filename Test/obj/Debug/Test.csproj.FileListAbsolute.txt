@@ -1,0 +1,9 @@
+c:\Users\administrator\documents\visual studio 2012\Projects\FengChatClient\Test\bin\Debug\Test.exe.config
+c:\Users\administrator\documents\visual studio 2012\Projects\FengChatClient\Test\bin\Debug\Test.exe
+c:\Users\administrator\documents\visual studio 2012\Projects\FengChatClient\Test\bin\Debug\Test.pdb
+c:\Users\administrator\documents\visual studio 2012\Projects\FengChatClient\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\Users\administrator\documents\visual studio 2012\Projects\FengChatClient\Test\obj\Debug\Test.exe
+c:\Users\administrator\documents\visual studio 2012\Projects\FengChatClient\Test\obj\Debug\Test.pdb
+G:\C#Project\FengChatClient\Test\bin\Debug\Test.exe.config
+G:\C#Project\FengChatClient\Test\obj\Debug\Test.exe
+G:\C#Project\FengChatClient\Test\obj\Debug\Test.pdb

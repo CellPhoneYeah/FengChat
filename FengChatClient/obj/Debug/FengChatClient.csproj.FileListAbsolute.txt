@@ -1,0 +1,20 @@
+c:\users\administrator\documents\visual studio 2012\Projects\FengChatClient\FengChatClient\bin\Debug\FengChatClient.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\FengChatClient\FengChatClient\bin\Debug\FengChatClient.exe
+c:\users\administrator\documents\visual studio 2012\Projects\FengChatClient\FengChatClient\bin\Debug\FengChatClient.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\FengChatClient\FengChatClient\obj\Debug\FengChatClient.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\FengChatClient\FengChatClient\obj\Debug\FengChatClient.FengChatClientFrm.resources
+c:\users\administrator\documents\visual studio 2012\Projects\FengChatClient\FengChatClient\obj\Debug\FengChatClient.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\FengChatClient\FengChatClient\obj\Debug\FengChatClient.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\FengChatClient\FengChatClient\obj\Debug\FengChatClient.exe
+c:\users\administrator\documents\visual studio 2012\Projects\FengChatClient\FengChatClient\obj\Debug\FengChatClient.pdb
+G:\C#Project\FengChatClient\FengChatClient\bin\Debug\FengChatClient.exe.config
+G:\C#Project\FengChatClient\FengChatClient\obj\Debug\FengChatClient.exe
+G:\C#Project\FengChatClient\FengChatClient\obj\Debug\FengChatClient.pdb
+G:\C#Project\FengChatClient\FengChatClient\bin\Debug\FengChatClient.exe
+G:\C#Project\FengChatClient\FengChatClient\bin\Debug\FengChatClient.pdb
+G:\C#Project\FengChatClient\FengChatClient\obj\Debug\FengChatClient.csprojResolveAssemblyReference.cache
+G:\C#Project\FengChatClient\FengChatClient\obj\Debug\FengChatClient.FengChatClientFrm.resources
+G:\C#Project\FengChatClient\FengChatClient\obj\Debug\FengChatClient.Properties.Resources.resources
+G:\C#Project\FengChatClient\FengChatClient\obj\Debug\FengChatClient.csproj.GenerateResource.Cache
+G:\C#Project\FengChatClient\FengChatClient\bin\Debug\Common.dll
+G:\C#Project\FengChatClient\FengChatClient\bin\Debug\Common.pdb
